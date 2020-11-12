@@ -9,6 +9,9 @@ The easiest way to get this into Anki is to open the .apkg file. This is a
 ready to go archive that will be imported directly into Anki. You can find this
 file on the releases page of this repository.
 
+The latest version is also available to be downloaded from the Anki shared decks site here:
+https://ankiweb.net/shared/info/1888839449
+
 ## Import into Anki
 
 The instructions below are if you want to create this deck from scratch. If you
