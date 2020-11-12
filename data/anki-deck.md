@@ -112,6 +112,7 @@ Styling:
     display: flex;
     padding: 1px;
     margin: 0 auto;
+    box-sizing: content-box;
 }
 .rgb-graph .bar {
     display: flex;
