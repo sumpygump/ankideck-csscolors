@@ -100,6 +100,11 @@ Styling:
     border-radius: 50%;
 }
 
+.desc {
+    font-family: monospace;
+    margin-bottom: 12px;
+}
+
 .rgb-graph {
     height: 16px;
     border: 1px solid #dcdcdc;
